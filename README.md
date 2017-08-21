@@ -9,7 +9,7 @@ Este adaptador permite conectar una unidad de disco de 40 pines ide hembra o un 
 
 # Image
 
-<img src="https://github.com/arananet/40-ide-male-to-male/blob/master/images/descarga.png?raw=true" width="400">
+<img src="https://github.com/arananet/40-ide-male-to-male/blob/master/images/image.png?raw=true" width="400">
 
 # Pin out is flipped
 
