@@ -31,6 +31,7 @@ Este adaptador permite conectar una unidad de disco de 40 pines ide hembra o un 
 # Updates
 
 12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
+
 21-08-2017 Initial release.
 
 # License
